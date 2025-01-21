@@ -33,9 +33,9 @@ To use the system, the following steps must be followed:
 - `add`: Add a new task.
 - `update <id> <description>`: Update the description of a task.
 - `delete <id>`: Delete a task.
-- `mark-in-progress <id>`: Mark a task as in progress.
-- `mark-done <id>`: Mark a task as done.
+- `mark_in_progress <id>`: Mark a task as in progress.
+- `mark_done <id>`: Mark a task as done.
 - `list`: List all tasks.
-- `list_todo`: List all tasks with status `todo`.
-- `list_in_progress`: List all tasks with status “in-progress”.
-- `list_done`: List all tasks with the status “done”
+- `list todo`: List all tasks with status `todo`.
+- `list in-progress`: List all tasks with status “in-progress”.
+- `list done`: List all tasks with the status “done”
