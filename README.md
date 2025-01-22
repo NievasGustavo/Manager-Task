@@ -7,6 +7,7 @@ The project is to create a task management system using Python. The system must 
 
 idea link: https://roadmap.sh/projects/task-tracker
 
+
 ## Features 📝
 
 - View all tasks.
@@ -14,7 +15,8 @@ idea link: https://roadmap.sh/projects/task-tracker
 - Create, modify and delete tasks.
 - Mark a task as in-progress or done.
 
-![](https://github.com/NievasGustavo/Manager-Task/blob/main/commands.gif)
+https://github.com/user-attachments/assets/f127d37a-75ae-4620-8ce7-968080ea0651
+
 
 
 ## Requirements 🖥
