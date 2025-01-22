@@ -3,7 +3,7 @@
 
 ## Description 📃
 
-The project is to create a task management system using Python. The system must allow users to create, modify, delete and list tasks. In addition, the system should allow users to mark a task as in progress or done.
+The project is to create a task management system using Python. The system must allow users to create, modify, delete and list tasks. In addition, it allows users to mark a task as in progress or completed.
 
 idea link: https://roadmap.sh/projects/task-tracker
 
