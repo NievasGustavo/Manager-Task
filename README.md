@@ -41,5 +41,5 @@ To use the system, the following steps must be followed:
 - `mark_done <id>`: Mark a task as done.
 - `list`: List all tasks.
 - `list todo`: List all tasks with status `todo`.
-- `list in-progress`: List all tasks with status “in-progress”.
-- `list done`: List all tasks with the status “done”
+- `list in-progress`: List all tasks with status `in-progress`.
+- `list done`: List all tasks with the status `done`
