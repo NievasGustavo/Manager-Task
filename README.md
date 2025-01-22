@@ -14,6 +14,8 @@ idea link: https://roadmap.sh/projects/task-tracker
 - Create, modify and delete tasks.
 - Mark a task as in-progress or done.
 
+![](https://github.com/NievasGustavo/Manager-Task/blob/main/commands.gif)
+
 
 ## Requirements 🖥
 
