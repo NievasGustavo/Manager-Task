@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/f127d37a-75ae-4620-8ce7-968080ea0651
 
 ## Requirements 🖥
 
-- Python 3.10
+- Python +3.10
 - cmd
 
 ## Usage 📚
