@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/f127d37a-75ae-4620-8ce7-968080ea0651
 
 ## Usage 📚
 
-To use the system, the following steps must be followed:
+To use Task Tracker CLI, the following steps must be followed:
 
 1. Open a terminal and navigate to the folder where the `tasktracker.py` file is located.
 2. Execute the command `python tasktracker.py`.
